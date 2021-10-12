@@ -19,7 +19,7 @@
 
 <h3 align="left">My Repo</h3>
 <p align="left">
-  <a href="https://github.com/caliph91/Bot-whatsapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SenkuXZ&repo=Bot-whatsapp&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></a>
+  <a href="https://github.com/caliph91/Bot-whatsapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caliph91&repo=Bot-whatsapp&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></a>
 </p>
 
 <h3 align="left">Github Stats</h3>
