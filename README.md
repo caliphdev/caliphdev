@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://avatars.githubusercontent.com/caliph91" width="240" height="240"/>
+<img src="https://avatars.githubusercontent.com/caliph91" width="100" height="100"/>
 </p>
 <h1 align='center'>Hallo bang👋 :wave:</h1>
 <p align='center'>Hi There, I'm Caliph</p>
