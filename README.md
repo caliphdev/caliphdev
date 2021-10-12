@@ -1,16 +1,32 @@
-### Hi there 👋
+<p align="center">
+<img src="https://avatars.githubusercontent.com/caliph91" width="240" height="240"/>
+</p>
+<h1 align='center'>Hallo bang👋 :wave:</h1>
+<p align='center'>Hi There, I'm Caliph</p>
+<p align='center'>
+<a href="https://instagram.com/021parapaaa_"><img height="30" src="https://storage.caliph71.xyz/img/instagram.svg"></a>&nbsp;&nbsp;
+</p>
+ 
+ 
+ <p align="center">
+ <img src="https://komarev.com/ghpvc/?username=caliph91&color=blue&label=Profile Views" />
+ </p>
 
-<!--
-**Caliph91/Caliph91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Contact with me:</h3>
+<p align="left"><a href="https://instagram.com/caliph91_" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/instagram.svg" alt="yooiamthoriq" height="30" width="40" /></a>
+<p align="left"><a href="https://Wa.me/380944182435" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/whatsapp.svg" alt="yooiamthoriq" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">My Repo</h3>
+<p align="left">
+  <a href="https://github.com/caliph91/Bot-whatsapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SenkuXZ&repo=Bot-whatsapp&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Github Stats</h3>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=caliph91&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&icon_color=fff&hide_border=false&show_icons=falze" /></a>
+</p> 
+
+<p align="left">
+  <a href="https://github.com/caliph91"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=caliph91&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
+</p>
