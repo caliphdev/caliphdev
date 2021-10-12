@@ -4,7 +4,7 @@
 <h1 align='center'>Hallo bang👋 :wave:</h1>
 <p align='center'>Hi There, I'm Caliph</p>
 <p align='center'>
-<a href="https://instagram.com/021parapaaa_"><img height="30" src="https://storage.caliph71.xyz/img/instagram.svg"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/caliph91_"><img height="30" src="https://storage.caliph71.xyz/img/instagram.svg"></a>&nbsp;&nbsp;
 </p>
  
  
@@ -13,8 +13,8 @@
  </p>
 
 <h3 align="left">Contact with me:</h3>
-<p align="left"><a href="https://instagram.com/caliph91_" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/instagram.svg" alt="yooiamthoriq" height="30" width="40" /></a>
-<p align="left"><a href="https://Wa.me/380944182435" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/whatsapp.svg" alt="yooiamthoriq" height="30" width="40" /></a>
+<p align="left"><a href="https://instagram.com/caliph91_" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/instagram.svg" height="40" width="40" /></a>
+<p align="left"><a href="https://Wa.me/380944182435" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/whatsapp.svg" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">My Repo</h3>
