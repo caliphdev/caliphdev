@@ -4,7 +4,7 @@
 <h1 align='center'>Hallo bang👋 :wave:</h1>
 <p align='center'>Hi There, I'm Caliph</p>
 <p align="center">
-<a href="//javascript:alert('avv >//<')" target="blank"><img align="center" src="https://cardivo.vercel.app/api?name=Caliph91&description=Hi,%20i%27m%20Caliph%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/caliph91&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@caliph91_&github=Caliph91&pattern=ticTacToe&colorPattern=%23eaeaea&site=caliph71.xyz"/></a>
+<a href="//javascript:alert('avv >//<')"><img align="center" src="https://cardivo.vercel.app/api?name=Caliph91&description=Hi,%20i%27m%20Caliph%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/caliph91&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@caliph91_&github=Caliph91&pattern=ticTacToe&colorPattern=%23eaeaea&site=caliph71.xyz"/></a>
 </p>
 <p align='center'>
 <a href="https://instagram.com/caliph91_"><img height="30" src="https://storage.caliph71.xyz/img/instagram.svg"></a>&nbsp;&nbsp;
