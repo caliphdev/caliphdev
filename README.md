@@ -19,6 +19,7 @@
 <p align="left"><a href="https://instagram.com/caliph91_" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/instagram.svg" height="30" width="30" /></a>
 <p align="left"><a href="https://Wa.me/62882003806038" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/whatsapp.svg" height="30" width="30" /></a>
 <p align="left"><a href="//clph.pw/yt"><img src="https://storage.caliph71.xyz/img/youtube.svg" height="30" width="30" /></a>
+<p align="left"><a href="//t.me/caliph713"><img src="https://storage.caliph71.xyz/img/telegram.png" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">My Repo</h3>
