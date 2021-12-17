@@ -27,11 +27,16 @@
   <a href="https://github.com/caliph91/Bot-whatsapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caliph91&repo=Bot-whatsapp&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></a>
 </p>
 
-<h3 align="left">Github Stats</h3>
+
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=caliph91&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&icon_color=fff&hide_border=false&show_icons=falze" /></a>
 </p> 
 
 <p align="left">
   <a href="https://github.com/caliph91"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=caliph91&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
+</p>
+
+<h3 align="left">Listening Music</h3>
+<p align="center">
+  <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
