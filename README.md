@@ -11,9 +11,10 @@
 </p>
  
  
- <p align="center">
- <img src="https://komarev.com/ghpvc/?username=caliph91&color=blue&label=Profile Views" />
- </p>
+<h3 align="left">Visitor</h3>
+<p align="center">
+<img src="https://count.getloli.com/get/@caliph91?theme=moebooru-h" alt="visitor.svg">
+</p>
 
 <h3 align="left">Contact with me:</h3>
 <p align="left"><a href="https://instagram.com/caliph91_" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/instagram.svg" height="30" width="30" /></a>
