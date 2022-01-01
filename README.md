@@ -13,7 +13,7 @@
  
 <h3 align="left">Visitor</h3>
 <p align="center">
-<img src="https://count.getloli.com/get/@caliph91?theme=moebooru-h" alt="visitor.svg">
+<img src="https://count.getloli.com/get/@caliph91?theme=rule34" alt="visitor.svg">
 </p>
 
 <h3 align="left">Contact with me:</h3>
