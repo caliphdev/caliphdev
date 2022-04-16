@@ -4,7 +4,7 @@
 <h1 align='center'>Hallo bang👋 :wave:</h1>
 <p align='center'>Hi There, I'm Caliph</p>
 <p align="center">
-<a href="//Instagram.com/caliph91_"><img align="center" src="https://cardivo.vercel.app/api?name=Caliph91&description=Hi,%20i%27m%20Caliph%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/caliph91&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@caliph91_&github=Caliph91&pattern=ticTacToe&colorPattern=%23eaeaea&site=caliph.my.id"/></a>
+<a href="//Instagram.com/caliph91_"><img align="center" src="https://cardivo.vercel.app/api?name=Caliph+Dev&description=Hi,%20i%27m%20Caliph%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/caliphdev&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@caliph91_&github=Caliphdev&pattern=ticTacToe&colorPattern=%23eaeaea&site=caliph.my.id"/></a>
 </p>
 <p align='center'>
 <a href="https://instagram.com/caliph91_"><img height="30" src="https://storage.caliph71.xyz/img/instagram.svg"></a>&nbsp;&nbsp;
@@ -19,8 +19,8 @@
 <h3 align="left">Contact with me:</h3>
 <p align="left"><a href="https://instagram.com/caliph91_" target="blank"><img align="center" src="https://storage.caliph.my.id/img/instagram.svg" height="30" width="30" /></a>
 <p align="left"><a href="https://Wa.me/62882003806038" target="blank"><img align="center" src="https://storage.caliph.my.id/img/whatsapp.svg" height="30" width="30" /></a>
-<p align="left"><a href="//clph.pw/yt"><img src="https://storage.caliph.my.id/img/youtube.svg" height="30" width="30" /></a>
-<p align="left"><a href="//t.me/caliph713"><img src="https://storage.caliph.my.id/img/telegram.png" height="30" width="30" /></a>
+<p align="left"><a href="//clp.pw/yt"><img src="https://storage.caliph.my.id/img/youtube.svg" height="30" width="30" /></a>
+<p align="left"><a href="//t.me/caliphdev"><img src="https://storage.caliph.my.id/img/telegram.png" height="30" width="30" /></a>
 </p>
 
 <p align="left">
