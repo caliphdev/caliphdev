@@ -13,32 +13,26 @@
  
 <h3 align="left">Visitor</h3>
 <p align="center">
-<img src="https://count.getloli.com/get/@caliph91?theme=rule34" alt="visitor.svg">
+<img src="https://count.getloli.com/get/@caliphdev?theme=rule34" alt="visitor.svg">
 </p>
 
 <h3 align="left">Contact with me:</h3>
-<p align="left"><a href="https://instagram.com/caliph91_" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/instagram.svg" height="30" width="30" /></a>
-<p align="left"><a href="https://Wa.me/62882003806038" target="blank"><img align="center" src="https://storage.caliph71.xyz/img/whatsapp.svg" height="30" width="30" /></a>
-<p align="left"><a href="//clph.pw/yt"><img src="https://storage.caliph71.xyz/img/youtube.svg" height="30" width="30" /></a>
-<p align="left"><a href="//t.me/caliph713"><img src="https://storage.caliph71.xyz/img/telegram.png" height="30" width="30" /></a>
+<p align="left"><a href="https://instagram.com/caliph91_" target="blank"><img align="center" src="https://storage.caliph.my.id/img/instagram.svg" height="30" width="30" /></a>
+<p align="left"><a href="https://Wa.me/62882003806038" target="blank"><img align="center" src="https://storage.caliph.my.id/img/whatsapp.svg" height="30" width="30" /></a>
+<p align="left"><a href="//clph.pw/yt"><img src="https://storage.caliph.my.id/img/youtube.svg" height="30" width="30" /></a>
+<p align="left"><a href="//t.me/caliph713"><img src="https://storage.caliph.my.id/img/telegram.png" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">My Repo</h3>
 <p align="left">
-  <a href="https://github.com/caliph91/Bot-whatsapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caliph91&repo=Bot-whatsapp&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></a>
-</p>
-
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=caliph91&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&icon_color=fff&hide_border=false&show_icons=falze" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=caliphdev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&icon_color=fff&hide_border=false&show_icons=falze" /></a>
 </p> 
 
 <p align="left">
-  <a href="https://github.com/caliph91"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=caliph91&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
+  <a href="https://github.com/caliphdev"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=caliphdev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
 </p>
 
 <p align="left">
-<a href="//github.com/caliph91"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caliph91"></a>
+<a href="//github.com/caliphdev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caliphdev"></a>
 </p>
 
 <!-- <h3 align="left">Listening Music</h3>
