@@ -18,7 +18,6 @@
 
 <h3 align="left">Contact with me:</h3>
 <p align="left"><a href="https://instagram.com/caliph91_" target="blank"><img align="center" src="https://storage.caliph.my.id/img/instagram.svg" height="30" width="30" /></a>
-<p align="left"><a href="https://Wa.me/62882003806038" target="blank"><img align="center" src="https://storage.caliph.my.id/img/whatsapp.svg" height="30" width="30" /></a>
 <p align="left"><a href="//clp.pw/yt"><img src="https://storage.caliph.my.id/img/youtube.svg" height="30" width="30" /></a>
 <p align="left"><a href="//t.me/caliphdev"><img src="https://storage.caliph.my.id/img/telegram.png" height="30" width="30" /></a>
 </p>
