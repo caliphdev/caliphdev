@@ -1,7 +1,6 @@
 <p align="center">
 <a href="https://caliph.my.id"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Caliph+Dev&description=Hi%2C%20i'm%20a%20Backend%20Developer%2C%20Nice%20to%20meet%20you&image=https://i0.wp.com/avatars.githubusercontent.com/caliphdev&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@caliph.dev&github=caliphdev&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://caliph.my.id"/></a>
 </p>
-
  
 <h3 align="left">Visitor</h3>
 <p align="center">
@@ -27,7 +26,7 @@
 </p>
 <h3>Support Me :</h3>
 <p align="center">
-<a href="https://trakteer.id/caliph/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-blue-6.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+<a href="https://paypal.me/caliphdev" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-blue-6.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
 </p>
 
 <!-- <h3 align="left">Listening Music</h3>
