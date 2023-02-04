@@ -1,10 +1,7 @@
 <p align="center">
-<a href="https://caliph.my.id"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Caliph+Dev&description=Hi,%20i%27m%20Caliph%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/caliphdev&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@caliph91_&github=Caliphdev&pattern=ticTacToe&colorPattern=%23eaeaea&site=caliph.my.id"/></a>
+<a href="https://caliph.my.id"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Caliph+Dev&description=Hi%2C%20i'm%20a%20Backend%20Developer%2C%20Nice%20to%20meet%20you&image=https://i0.wp.com/avatars.githubusercontent.com/caliphdev&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@caliph.dev&github=caliphdev&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://caliph.my.id"/></a>
 </p>
-<p align='center'>
-<a href="https://instagram.com/caliph.dev"><img height="30" src="https://storage.caliph.my.id/img/instagram.svg"></a>&nbsp;&nbsp;
-</p>
- 
+
  
 <h3 align="left">Visitor</h3>
 <p align="center">
@@ -12,13 +9,13 @@
 </p>
 
 <h3 align="left">Contact with me:</h3>
-<p align="left"><a href="https://instagram.com/caliph91_" target="blank"><img align="center" src="https://storage.caliph.my.id/img/instagram.svg" height="30" width="30" /></a>
-<p align="left"><a href="//clp.pw/yt"><img src="https://storage.caliph.my.id/img/youtube.svg" height="30" width="30" /></a>
+<p align="left"><a href="https://instagram.com/caliph.dev" target="blank"><img align="center" src="https://storage.caliph.my.id/img/instagram.svg" height="30" width="30" /></a>
+<p align="left"><a href="//youtube.com/@caliphdev"><img src="https://storage.caliph.my.id/img/youtube.svg" height="30" width="30" /></a>
 <p align="left"><a href="//t.me/caliphdev"><img src="https://storage.caliph.my.id/img/telegram.png" height="30" width="30" /></a>
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=caliphdev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&icon_color=fff&hide_border=false&show_icons=falze" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=caliphdev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&icon_color=fff&hide_border=false&show_icons=false" /></a>
 </p> 
 
 <p align="left">
