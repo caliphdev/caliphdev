@@ -1,10 +1,10 @@
 <p align="center">
-<a href="https://caliph.my.id"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Caliph+Dev&description=Hi%2C%20i'm%20a%20Backend%20Developer%2C%20Nice%20to%20meet%20you&image=https://avatars.githubusercontent.com/caliphdev&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@caliph.dev&github=caliphdev&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://caliph.my.id"/></a>
+<a href="https://discordapp.com/users/904332430687760444"><img align="center" src="https://discord.c99.nl/widget/theme-3/904332430687760444.png"/></a>
 </p>
  
 <h3 align="left">Visitor</h3>
 <p align="center">
-<img src="https://count.caliphdev.my.id/get/@caliphdev?theme=rule34" alt="visitor.svg">
+<img src="https://count.getloli.com/get/@caliphdev?theme=rule34" alt="visitor.svg">
 </p>
 
 <h3 align="left">Contact with me:</h3>
