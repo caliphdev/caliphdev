@@ -8,9 +8,9 @@
 </p>
 
 <h3 align="left">Contact with me:</h3>
-<p align="left"><a href="https://instagram.com/caliph.dev" target="blank"><img align="center" src="https://storage.caliph.my.id/img/instagram.svg" height="30" width="30" /></a>
-<p align="left"><a href="//youtube.com/@caliphdev"><img src="https://storage.caliph.my.id/img/youtube.svg" height="30" width="30" /></a>
-<p align="left"><a href="//t.me/caliphdev"><img src="https://storage.caliph.my.id/img/telegram.png" height="30" width="30" /></a>
+<p align="left"><a href="https://instagram.com/caliph.dev" target="blank"><img align="center" src="https://storage.caliph.my.id/img/instagram.svg?v=2" height="30" width="30" /></a>
+<p align="left"><a href="//youtube.com/@caliphdev"><img src="https://storage.caliph.my.id/img/youtube.svg?v=2" height="30" width="30" /></a>
+<p align="left"><a href="//t.me/caliphdev"><img src="https://storage.caliph.my.id/img/telegram.png?v=2" height="30" width="30" /></a>
 </p>
 
 <p align="left">
