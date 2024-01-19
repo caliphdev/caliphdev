@@ -29,9 +29,7 @@
 <a href="https://paypal.me/caliphdev" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-blue-6.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
 </p>
 
-<!-- <h3 align="left">Listening Music</h3>
+<h3 align="left">Listening Music</h3>
 <p align="center">
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DX7i7SKKuAK4o?si=KwEgMrM7SbyqwuLH4ZgJdw&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DX7i7SKKuAK4o?si=KwEgMrM7SbyqwuLH4ZgJdw&utm_source=copy-link" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31kvoo3nwd5sdwgec5h3ljpxigrq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="350"/></a>
 </p>
-
--->
