@@ -4,7 +4,7 @@
  
 <h3 align="left">Visitor</h3>
 <p align="center">
-<img src="https://count.caliphdev.my.id/get/@caliphdev?theme=rule34" alt="visitor.svg">
+<img src="https://count.caliphdev.com/get/@caliphdev?theme=rule34" alt="visitor.svg">
 </p>
 
 <h3 align="left">Contact with me:</h3>
