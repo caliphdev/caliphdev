@@ -1,7 +1,5 @@
-<p align="center">
-<a href="https://discordapp.com/users/904332430687760444"><img align="center" src="https://discord.c99.nl/widget/theme-3/904332430687760444.png"/></a>
-</p>
- 
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Helvetica&pause=1000&color=F7D400&random=true&width=435&lines=Welcome+To+My+Profile&center=true"/>
+
 <h3 align="left">Visitor</h3>
 <p align="center">
 <img src="https://count.caliphdev.com/get/@caliphdev?theme=rule34" alt="visitor.svg">
